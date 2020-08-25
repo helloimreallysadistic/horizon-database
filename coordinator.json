@@ -1,0 +1,68 @@
+[
+    {
+        "author": "Google Earth",
+        "collections": "Horizon",
+        "copyright": "Google Earth, Personal Use Only",
+        "dimensions": "2273x4096 px",
+        "downloadable": true,
+        "name": "Nor",
+        "size": 11273007,
+        "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/horizon-database/master/Horizon/thumb/Nor_thumb.jpg",
+        "url": "https://raw.githubusercontent.com/helloimreallysadistic/horizon-database/master/Horizon/Nor.png"
+    },
+    {
+        "author": "Google Earth",
+        "collections": "Horizon",
+        "copyright": "Google Earth, Personal Use Only",
+        "dimensions": "2463x4096 px",
+        "downloadable": true,
+        "name": "Kona",
+        "size": 5689391,
+        "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/horizon-database/master/Horizon/thumb/Kona_thumb.jpg",
+        "url": "https://raw.githubusercontent.com/helloimreallysadistic/horizon-database/master/Horizon/Kona.jpg"
+    },
+    {
+        "author": "Google Earth",
+        "collections": "Horizon",
+        "copyright": "Google Earth, Personal Use Only",
+        "dimensions": "2273x4096 px",
+        "downloadable": true,
+        "name": "Illizi - 2",
+        "size": 5665374,
+        "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/horizon-database/master/Horizon/thumb/Illizi - 2_thumb.jpg",
+        "url": "https://raw.githubusercontent.com/helloimreallysadistic/horizon-database/master/Horizon/Illizi - 2.jpg"
+    },
+    {
+        "author": "Google Earth",
+        "collections": "Horizon",
+        "copyright": "Google Earth, Personal Use Only",
+        "dimensions": "2273x4096 px",
+        "downloadable": true,
+        "name": "Illizi - 1",
+        "size": 4888570,
+        "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/horizon-database/master/Horizon/thumb/Illizi - 1_thumb.jpg",
+        "url": "https://raw.githubusercontent.com/helloimreallysadistic/horizon-database/master/Horizon/Illizi - 1.jpg"
+    },
+    {
+        "author": "Google Earth",
+        "collections": "Horizon",
+        "copyright": "Google Earth, Personal Use Only",
+        "dimensions": "2464x4097 px",
+        "downloadable": true,
+        "name": "Iceland",
+        "size": 3771414,
+        "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/horizon-database/master/Horizon/thumb/Iceland_thumb.jpg",
+        "url": "https://raw.githubusercontent.com/helloimreallysadistic/horizon-database/master/Horizon/Iceland.jpg"
+    },
+    {
+        "author": "Google Earth",
+        "collections": "Horizon",
+        "copyright": "Google Earth, Personal Use Only",
+        "dimensions": "2463x4096 px",
+        "downloadable": true,
+        "name": "Hardap",
+        "size": 14954333,
+        "thumbnail": "https://raw.githubusercontent.com/helloimreallysadistic/horizon-database/master/Horizon/thumb/Hardap_thumb.jpg",
+        "url": "https://raw.githubusercontent.com/helloimreallysadistic/horizon-database/master/Horizon/Hardap.jpg"
+    }
+]
